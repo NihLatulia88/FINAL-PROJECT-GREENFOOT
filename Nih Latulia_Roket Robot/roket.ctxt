@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=roket
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ roket\ here.\r\n\ \r\n\ @author\ (nurul\ fatimah)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=latar
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment2.params=
+comment2.target=void\ hancur()
+comment3.params=
+comment3.target=void\ move()
+comment4.params=
+comment4.target=void\ act()
+numComments=5
